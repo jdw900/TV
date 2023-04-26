@@ -50,8 +50,7 @@ https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 
 
 
-#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通",第一财经
-https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000/mnf.m3u8
+
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv1.png" group-title="CCTV",CCTV1
 https://live.v1.mk/api/bestv.php?id=cctv1hd8m/8000000
 #EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="http://n.ysyz.top:99/buyaolian/cctv2.png" group-title="CCTV",CCTV2
@@ -148,7 +147,8 @@ https://live.v1.mk/api/bestv.php?id=hainanwshd8m/8000000/mnf.m3u8
 
 
 
-
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="" group-title="百事通",第一财经
+https://live.v1.mk/api/bestv.php?id=dycjhd8m/8000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="百事通",欢笑剧场4k
 https://live.v1.mk/api/bestv.php?id=hxjc4k/15000000/mnf.m3u8
 #EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/huanxiao.png" group-title="百事通",欢笑剧场

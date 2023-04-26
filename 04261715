@@ -1,7 +1,7 @@
 #EXTM3U
-#EXTINF:0,凤凰卫视资讯台
+#EXTINF:0,凤凰卫视资讯台 group-title="海外"
 http://117.169.124.146:8080/live/fhzixun/1.m3u8
-#EXTINF:0,NHK BS1
+#EXTINF:0,NHK BS1 group-title="海外"
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS101&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1
 #EXTINF:0,日本テレビ 
 https://stream01.willfonk.com/live_playlist.m3u8?cid=BS294&r=FHD&ccode=JP&m=d0:20:20:04:35:cc&t=0d6938cb3dcf4b79848bc1753a59daf1

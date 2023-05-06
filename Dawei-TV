@@ -45,6 +45,10 @@ https://live.corusdigitaldev.com/groupd/live/8970c668-40cd-4ca9-8c4d-25fd04f619b
 http://fox-foxnewsnow-samsungus.amagi.tv/playlist.m3u8
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",Bloomberg TV+ 4K
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",PBS National East (1080p)
+https://pbs.lls.cdn.pbs.org/est/index.m3u8
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="" group-title="海外",PBS National West (1080p) 
+https://pbs.lls.cdn.pbs.org/pst/index.m3u8
 
 
 
